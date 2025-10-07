@@ -27,7 +27,7 @@ It provides visually appealing color schemes, fonts, and widget styles to quickl
 You can install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/<your-username>/tk_themes_tirthraj.git
+pip install git+https://github.com/TirthrajSG/TkThemes.git
 ```
 
 Or 

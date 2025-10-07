@@ -7,5 +7,5 @@ setup(
     install_requires=[],
     description="Contains dictionary of custom themes used for creting GUIs with Tkinter",
     author="Tirthraj Girawale",
-    url="https://github.com/<your-username>/tk-themes-tirthraj",
+    url="https://github.com/TirthrajSG/TkThemes",
 )
