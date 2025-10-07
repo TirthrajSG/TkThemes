@@ -8,4 +8,5 @@ setup(
     description="Contains dictionary of custom themes used for creting GUIs with Tkinter",
     author="Tirthraj Girawale",
     url="https://github.com/TirthrajSG/TkThemes",
+    python_requires=">=3.7"
 )

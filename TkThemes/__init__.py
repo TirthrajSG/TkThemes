@@ -20,3 +20,5 @@ __all__ = [
     "Cyberpunk",
     "PastelSunset"
 ]  
+
+__version__ = "0.1.0"
